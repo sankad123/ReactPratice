@@ -1,6 +1,17 @@
 ## Namaste React Course by Akshay Saini
 # Chapter 03 - Laying the Foundation
 
+Topics
+
+JSX
+React.createElement vs JSX
+Benefits of JSX
+Behind the Scenes of JSX
+Babel & parcel role in JSX
+Components
+Functional Components
+Composing Components
+
 ## Q: What is `JSX`?
 A: JSX stands for JavaScript XML.
 JSX allows us to write HTML elements in JavaScript and place them in the DOM without any createElement() and/or appendChild() methods.
