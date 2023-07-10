@@ -1,0 +1,28 @@
+{
+  "name": "reactpratice",
+  "version": "1.0.0",
+  "description": "This is React app by Vaishnavi Sankad",
+
+  "scripts": {
+    "start": "parcel First.html",
+    "build":"parcel build First.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "reactpractice"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vaishnavi Sankad",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
